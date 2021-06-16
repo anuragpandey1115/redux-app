@@ -1,0 +1,28 @@
+.main_div{
+    text-align: center;
+    width: 500px;
+    height: 400px;
+    background: rgb(143, 137, 143);
+    margin-top: 7%;
+    position:relative;
+    left: 36%;
+}
+
+.eachItem{
+    align-items: center;
+}
+
+.todo-btn{
+    display: inline-flex;
+}
+h3{
+    display: inline;
+} 
+figure{
+    width: max-content;
+    margin-left: 36%;
+}
+.head{
+    background: cornsilk;
+    font-weight: 400;
+}
